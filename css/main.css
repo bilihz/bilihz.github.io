@@ -2477,3 +2477,15 @@ header.header {
     padding: 10px 12px;
   }
 }
+.rss-link {
+  color: #fff;
+  background: #ee802f;
+  font-size: 15px;
+  line-height: 15px;
+  padding-left: auto;
+  padding-right: auto;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
